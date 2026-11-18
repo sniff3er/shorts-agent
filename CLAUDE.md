@@ -1,7 +1,7 @@
 # Shorts agent - working notes
 
 Python pipeline that turns a script into a finished YouTube Short (see README.md).
-Channel: faceless English finance/business true stories told like a thriller
+Channel: faceless English true stories of fortunes made and lost, told like a thriller
 ("He lost $20 billion in 48 hours"). Owner speaks Italian: reply in short Italian.
 
 ## Daily routine ("crea lo Short del giorno")
@@ -17,8 +17,10 @@ Channel: faceless English finance/business true stories told like a thriller
    daily quota error (code 4006, "daily free allocation"), stop: do not switch provider, tell the
    user the free quota is used up and the Short was skipped.
 2. Run `git pull origin main` first (two people publish on this channel, two Shorts a day).
-   Pick ONE new topic not already in `topics.md`: a real, well-documented money/business
-   collapse, scam, heist, bubble or comeback with a shocking number. Prefer stories you know
+   Pick ONE new topic not already in `topics.md`, alternating with the last entry: after a
+   loss story (collapse, scam, heist, bubble) pick a WIN story (a fortune made: legendary trade,
+   startup that exploded, lottery-like bet, comeback, self-made fortune), and vice versa.
+   It must be real and well documented, with a shocking number. Prefer stories you know
    well; facts must be solid.
 3. Write `examples/<slug>.json` yourself, following the schema and rules in `writer.py`
    (SCHEMA and SYSTEM): 10-14 lines, 110-140 words, numbers as words, exactly 8 image prompts,

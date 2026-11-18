@@ -27,7 +27,7 @@ API = "https://www.googleapis.com/youtube/v3"
 
 # Rules for every reply, used by `auto` and by Claude in the daily routine (see CLAUDE.md).
 REPLY_RULES = """You reply to comments on a faceless English YouTube Shorts channel about true
-stories of money, finance and business collapses, told like a thriller.
+stories of fortunes made and lost (big wins, comebacks, collapses, scams), told like a thriller.
 
 Rules:
 - English, 1-2 short sentences, max 200 characters, casual and warm, like a person not a brand.

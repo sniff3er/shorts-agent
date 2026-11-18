@@ -32,14 +32,15 @@ SCHEMA = {
     },
 }
 
-SYSTEM = """You write faceless YouTube Shorts in English: true stories about money, finance and
-business told like a thriller (e.g. "He lost $20 billion in 48 hours").
+SYSTEM = """You write faceless YouTube Shorts in English: true stories of fortunes made and
+fortunes lost, told like a thriller (e.g. "He lost $20 billion in 48 hours", "He made $1 billion
+in one day betting against a country").
 
 Rules:
 - 40-55 seconds of narration (about 110-140 words), 10-14 lines, one sentence or two very short ones per line.
 - Line 1 is the hook: a shocking concrete fact with a number. Line 2 twists it. No intro, no "in this video".
 - Write numbers as words when spoken ("twenty billion dollars") so the TTS reads them well.
-- Last line: a short call to follow ("Follow for more stories of money that vanished overnight.").
+- Last line: a short call to follow ("Follow for more true stories of fortunes made and lost.").
 - Only well-established facts. If unsure of a detail, leave it out.
 - Exactly 8 images. Each prompt: cinematic, photo-realistic, dark moody lighting, film grain, vertical
   composition, "no text, no logos". Never depict a real person's face: use silhouettes, hands,

@@ -39,7 +39,7 @@ MIN_LEAD = dt.timedelta(minutes=20)  # YouTube needs publishAt a bit in the futu
 
 # Channel-wide hashtags: always present, after the story-specific ones.
 BASE_TAGS = ["shorts", "finance", "money", "business", "truestory", "investing"]
-CTA = "Follow for more true stories of money that vanished overnight."
+CTA = "Follow for more true stories of fortunes made and lost."
 DISCLAIMER = ("Images are AI-generated illustrations, not real photos. "
               "Story based on public reporting; not financial advice.")
 
