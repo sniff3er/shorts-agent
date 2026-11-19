@@ -34,7 +34,8 @@ Channel: faceless English true stories of fortunes made and lost, told like a th
    SendUserFile (status proactive).
 7. Publish: `python publisher.py output/<slug> --slot auto` (needs YT_CLIENT_ID, YT_CLIENT_SECRET,
    YT_REFRESH_TOKEN). If they are missing, skip this step and say so; never ask for them in chat.
-   Shorts go out at 14:00 and 18:00 Rome time: `--slot auto` uploads the video as scheduled for
+   Shorts go out at 14:00 and 18:00 US Eastern time (New York; 20:00 and 24:00 in Rome most of
+   the year): `--slot auto` uploads the video as scheduled for
    the next free slot (it reads the channel, so it also sees the other person's Shorts).
    A scheduled video cannot take comments yet: call `send_later` 5 minutes after the slot with
    "run `python engager.py pending` in shorts-agent (pull main first) and tell me the link to pin".
@@ -42,4 +43,4 @@ Channel: faceless English true stories of fortunes made and lost, told like a th
    (the API cannot pin: remind the user to pin it in Studio, the command prints the link).
 8. Append a line to `topics.md` (date, slug, title), run `git pull --rebase origin main`, commit `topics.md` and
    `examples/<slug>.json` on `main` and push. Never commit `output/` or `models/`.
-9. Final message, 3-4 lines in Italian: title, length, YouTube link, scheduled time (Rome), first comment to pin, replies posted, any fact you are less than sure of.
+9. Final message, 3-4 lines in Italian: title, length, YouTube link, scheduled time (New York and Rome), first comment to pin, replies posted, any fact you are less than sure of.

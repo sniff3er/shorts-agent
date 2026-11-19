@@ -6,7 +6,7 @@
   python publisher.py --all                       # publish every Short not yet published
   python publisher.py output/barings --dry-run    # only write/print title, description, tags
   python publisher.py output/barings --privacy private --at 2026-11-18T17:00:00Z
-  python publisher.py output/barings --slot auto  # next free slot: 14:00 or 18:00 Rome time
+  python publisher.py output/barings --slot auto  # next free slot: 14:00 or 18:00 New York time
 
 Needs YT_CLIENT_ID, YT_CLIENT_SECRET and (after --auth) YT_REFRESH_TOKEN.
 Writes output/<slug>/youtube.json with the video id, so a Short is never uploaded twice.
@@ -34,7 +34,7 @@ CATEGORY_EDUCATION = "27"
 TOKEN_FILE = os.path.join(HERE, "youtube_token.json")
 # Daily publishing slots (local time). Shorts are uploaded as scheduled and go public then.
 SLOTS = ["14:00", "18:00"]
-SLOT_TZ = "Europe/Rome"
+SLOT_TZ = "America/New_York"  # US Eastern time
 MIN_LEAD = dt.timedelta(minutes=20)  # YouTube needs publishAt a bit in the future
 
 # Channel-wide hashtags: always present, after the story-specific ones.
@@ -281,7 +281,7 @@ def main():
     ap.add_argument("--privacy", default="public", choices=["public", "unlisted", "private"])
     ap.add_argument("--at", help="schedule, RFC3339 UTC e.g. 2026-11-18T17:00:00Z")
     ap.add_argument("--slot", choices=["auto"],
-                    help="schedule at the next free daily slot (SLOTS, Rome time)")
+                    help="schedule at the next free daily slot (SLOTS, New York time)")
     ap.add_argument("--dry-run", action="store_true", help="only build title/description/tags")
     a = ap.parse_args()
 
