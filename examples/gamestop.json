@@ -1,0 +1,33 @@
+{
+ "slug": "gamestop",
+ "title": "He Turned $53,000 Into $48 Million #shorts",
+ "description": "In 2021, a regular guy known as Roaring Kitty bet on a dying video game store, took on hedge funds and shook Wall Street. The GameStop story.\nFollow for more stories of fortunes made and lost.",
+ "hashtags": ["finance", "money", "gamestop", "stockmarket", "wallstreetbets", "investing"],
+ "hook_text": "$53,000 BECAME\n$48 MILLION",
+ "highlight_words": ["FIFTY-THREE THOUSAND", "FORTY-EIGHT MILLION", "BILLIONS", "EIGHTEEN DOLLARS", "FOUR HUNDRED AND EIGHTY-THREE", "HALF", "TWO BILLION", "SEVEN HUNDRED FIFTY MILLION"],
+ "first_comment": "Would you have held GameStop at $400, or sold and walked away rich? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic empty video game store at night, dim neon sign glow without readable text, rain on the window, dark moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a man seen from behind sitting at a desk in a dark room, a glowing laptop lighting the walls, dark moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic close-up of hands typing on a laptop, screen glowing with a green rising line chart, dark room, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic Wall Street skyscrapers seen from street level at night, looking up, cold blue light, dramatic moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic glowing green line chart shooting almost vertically upward on a dark trading screen, dramatic light, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic crowd of hands holding glowing smartphones in the dark, a sea of screen light, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty hedge fund boardroom at night, red alarm light flashing on the glass wall, empty leather chairs, tense mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic United States Capitol building at dusk, dramatic orange and blue sky, long shadows, film grain, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "In twenty nineteen, a man put fifty-three thousand dollars into a dying video game store.", "img": 0, "sfx": "none"},
+  {"text": "Two years later, his bet was worth forty-eight million.", "img": 1, "sfx": "impact"},
+  {"text": "His name was Keith Gill, an ordinary guy posting videos as Roaring Kitty.", "img": 2, "sfx": "none"},
+  {"text": "Everyone said GameStop was finished, and hedge funds bet billions against it.", "img": 3, "sfx": "tick"},
+  {"text": "But more shares had been sold short than the company actually had.", "img": 2, "sfx": "none"},
+  {"text": "He posted his bets online, and thousands of strangers followed.", "img": 5, "sfx": "riser"},
+  {"text": "In January twenty twenty-one, the stock exploded from eighteen dollars to four hundred and eighty-three.", "img": 4, "sfx": "impact"},
+  {"text": "Hedge fund Melvin Capital lost more than half its money in one month.", "img": 6, "sfx": "none"},
+  {"text": "It needed a two billion seven hundred fifty million dollar rescue.", "img": 6, "sfx": "tick"},
+  {"text": "Congress called Gill to testify. His answer: I like the stock.", "img": 7, "sfx": "impact"},
+  {"text": "One guy with a laptop had shaken Wall Street.", "img": 3, "sfx": "none"},
+  {"text": "Follow for more stories of fortunes made and lost.", "img": 0, "sfx": "none"}
+ ]
+}
