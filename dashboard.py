@@ -54,42 +54,78 @@ def fetch(token):
 
 
 HTML = """<!doctype html><html lang="it"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1"><title>Dashboard canale</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Finance Commm Dashboard</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Share+Tech+Mono&display=swap">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
-:root{--bg:#fff;--fg:#1a1a1a;--card:#f4f4f6;--mut:#666;--ac:#e5322d;--ac2:#2d6be5}
-@media(prefers-color-scheme:dark){:root{--bg:#111;--fg:#eee;--card:#1c1c20;--mut:#999}}
-*{box-sizing:border-box}body{margin:0;padding:16px;background:var(--bg);color:var(--fg);font:15px system-ui,sans-serif;max-width:1000px;margin:auto}
-h1{font-size:22px;margin:4px 0}h2{font-size:16px;margin:24px 0 8px}.mut{color:var(--mut);font-size:13px}
-.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-top:12px}
-.k{background:var(--card);border-radius:10px;padding:12px}.k b{display:block;font-size:24px}
-.card{background:var(--card);border-radius:10px;padding:12px;overflow-x:auto}
-table{width:100%;border-collapse:collapse}td,th{padding:6px 8px;text-align:left;border-bottom:1px solid #8883;white-space:nowrap}
-td.t{white-space:normal;min-width:180px}th{color:var(--mut);font-weight:500;font-size:13px}a{color:var(--ac2)}
-.tag{background:var(--ac);color:#fff;border-radius:4px;padding:1px 6px;font-size:12px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
-</style></head><body>
-<h1 id="n"></h1><div class="mut" id="u"></div><div class="kpis" id="k"></div>
-<h2>Andamento</h2><div class="grid"><div class="card"><canvas id="c1"></canvas></div><div class="card"><canvas id="c2"></canvas></div></div>
-<h2>Programmati</h2><div class="card"><table id="s"></table></div>
-<h2>Tutti gli Short</h2><div class="card"><table id="a"></table></div>
+:root{--bg:#02080f;--panel:#06172466;--ln:#19e3ff55;--cy:#19e3ff;--or:#ff9d2e;--fg:#cdf6ff;--mut:#5fa0b3;--ok:#3dffb0;color-scheme:dark;
+--hd:Orbitron,system-ui,sans-serif;--mo:'Share Tech Mono',ui-monospace,monospace}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px var(--mo);
+background-image:radial-gradient(ellipse at 50% -10%,#0a3a52 0,transparent 60%),linear-gradient(#19e3ff0d 1px,transparent 1px),linear-gradient(90deg,#19e3ff0d 1px,transparent 1px);background-size:100% 100%,32px 32px,32px 32px;
+padding-block:20px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.w{max-width:1040px;margin:auto}
+header{display:flex;align-items:center;gap:16px;flex-wrap:wrap;border-bottom:1px solid var(--ln);padding-bottom:14px}
+.ring{width:72px;height:72px;flex:none}
+.ring .r1{transform-origin:50% 50%;animation:sp 12s linear infinite}.ring .r2{transform-origin:50% 50%;animation:sp 7s linear infinite reverse}
+@keyframes sp{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.ring *,.dot{animation:none!important}}
+h1{font:700 22px var(--hd);letter-spacing:.14em;margin:0;color:var(--cy);text-shadow:0 0 12px #19e3ff88;text-transform:uppercase}
+.sub{color:var(--mut);font-size:13px;letter-spacing:.08em;margin-top:4px}
+.clk{margin-left:auto;text-align:right;font-size:13px;color:var(--mut);line-height:1.6}.clk b{color:var(--cy);font:500 18px var(--hd)}
+h2{font:500 13px var(--hd);letter-spacing:.2em;color:var(--cy);margin:26px 0 10px;text-transform:uppercase;display:flex;gap:10px;align-items:center}
+h2:after{content:"";flex:1;height:1px;background:linear-gradient(90deg,var(--ln),transparent)}
+.p{position:relative;background:var(--panel);border:1px solid var(--ln);padding:14px;min-width:0;backdrop-filter:blur(4px)}
+.p:before,.p:after{content:"";position:absolute;width:12px;height:12px;border:2px solid var(--cy)}
+.p:before{top:-1px;left:-1px;border-right:0;border-bottom:0}.p:after{bottom:-1px;right:-1px;border-left:0;border-top:0}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-top:18px}
+.k b{display:block;font:700 28px var(--hd);color:#fff;text-shadow:0 0 14px #19e3ffaa;font-variant-numeric:tabular-nums}
+.k span{color:var(--mut);font-size:12px;letter-spacing:.12em;text-transform:uppercase}
+.k.o b{color:var(--or);text-shadow:0 0 14px #ff9d2eaa}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:12px}
+.tw{overflow-x:auto}table{width:100%;border-collapse:collapse}
+td,th{padding:8px;text-align:left;border-bottom:1px solid #19e3ff22;white-space:nowrap}td.t{white-space:normal;min-width:200px}
+th{color:var(--mut);font-weight:400;font-size:12px;letter-spacing:.14em;text-transform:uppercase}
+td.n{font-variant-numeric:tabular-nums;color:#fff}
+a{color:var(--cy);text-decoration:none}a:hover{text-shadow:0 0 8px var(--cy)}a:focus-visible{outline:1px solid var(--or);outline-offset:2px}
+.tag{border:1px solid var(--or);color:var(--or);padding:1px 6px;font-size:11px;letter-spacing:.1em;text-transform:uppercase}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--ok);box-shadow:0 0 8px var(--ok);margin-right:6px;animation:pl 2s infinite}
+@keyframes pl{50%{opacity:.3}}
+.cd{color:var(--or)}.empty{color:var(--mut);letter-spacing:.1em}
+</style></head><body><div class="w">
+<header>
+<svg class="ring" viewBox="0 0 72 72" fill="none" aria-hidden="true"><circle cx="36" cy="36" r="33" stroke="#19e3ff44"/>
+<g class="r1"><circle cx="36" cy="36" r="29" stroke="#19e3ff" stroke-width="3" stroke-dasharray="30 16 6 16"/></g>
+<g class="r2"><circle cx="36" cy="36" r="21" stroke="#ff9d2e" stroke-width="2" stroke-dasharray="4 8"/></g>
+<circle cx="36" cy="36" r="10" fill="#19e3ff22" stroke="#19e3ff"/><circle cx="36" cy="36" r="4" fill="#fff"/></svg>
+<div><h1 id="n"></h1><div class="sub"><span class="dot"></span>SISTEMA ONLINE · <span id="u"></span></div></div>
+<div class="clk"><div>ROMA <b id="cr"></b></div><div>NEW YORK <b id="cn"></b></div></div>
+</header>
+<div class="kpis" id="k"></div>
+<h2>Telemetria</h2><div class="grid"><div class="p"><canvas id="c1"></canvas></div><div class="p"><canvas id="c2"></canvas></div></div>
+<h2>Coda di lancio</h2><div class="p tw"><table id="s"></table></div>
+<h2>Archivio Short</h2><div class="p tw"><table id="a"></table></div>
+</div>
 <script>
 const D=__DATA__;const f=n=>n.toLocaleString('it-IT');
 const fmt=(s,tz)=>new Date(s).toLocaleString('it-IT',{timeZone:tz,day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'});
 const pub=D.items.filter(v=>!v.scheduled&&v.privacy==='public'),sch=D.items.filter(v=>v.scheduled);
-document.getElementById('n').textContent=D.name;
-document.getElementById('u').textContent='Aggiornato '+fmt(D.updated,'Europe/Rome')+' (Roma)';
+n.textContent=D.name;u.textContent='AGG. '+fmt(D.updated,'Europe/Rome').toUpperCase();
+const tick=()=>{const t=z=>new Date().toLocaleTimeString('it-IT',{timeZone:z,hour:'2-digit',minute:'2-digit',second:'2-digit'});cr.textContent=t('Europe/Rome');cn.textContent=t('America/New_York');
+document.querySelectorAll('[data-t]').forEach(e=>{let d=new Date(e.dataset.t)-new Date();if(d<0){e.textContent='IMMINENTE';return}let h=Math.floor(d/36e5),m=Math.floor(d%36e5/6e4),s=Math.floor(d%6e4/1e3);e.textContent=`T-${h}h ${String(m).padStart(2,'0')}m ${String(s).padStart(2,'0')}s`})};
+setInterval(tick,1000);
 const tv=pub.reduce((a,v)=>a+v.views,0),tl=pub.reduce((a,v)=>a+v.likes,0);
-const K=[['Iscritti',D.subs],['Views canale',D.views],['Short pubblici',pub.length],['Programmati',sch.length],
-['Views medie',pub.length?Math.round(tv/pub.length):0],['Like/view %',tv?(100*tl/tv).toFixed(1):0],['Commenti',pub.reduce((a,v)=>a+v.comments,0)]];
-document.getElementById('k').innerHTML=K.map(([a,b])=>`<div class="k"><b>${typeof b=='number'?f(b):b}</b><span class="mut">${a}</span></div>`).join('');
+const K=[['Iscritti',D.subs],['Views canale',D.views],['Short online',pub.length],['In coda',sch.length,1],['Views medie',pub.length?Math.round(tv/pub.length):0],['Like / view %',tv?(100*tl/tv).toFixed(1):0],['Commenti',pub.reduce((a,v)=>a+v.comments,0)]];
+k.innerHTML=K.map(([a,b,o])=>`<div class="p k${o?' o':''}"><b>${typeof b=='number'?f(b):b}</b><span>${a}</span></div>`).join('');
 const lab=pub.map(v=>new Date(v.published).toLocaleDateString('it-IT',{day:'2-digit',month:'short'}));
-if(window.Chart)new Chart(c1,{type:'bar',data:{labels:lab,datasets:[{label:'Views per Short',data:pub.map(v=>v.views),backgroundColor:'#e5322d'}]},options:{plugins:{legend:{display:true}}}});
-let cum=0;if(window.Chart)new Chart(c2,{type:'line',data:{labels:lab,datasets:[{label:'Views cumulate',data:pub.map(v=>cum+=v.views),borderColor:'#2d6be5',tension:.3},
-{label:'Like',data:pub.map(v=>v.likes),borderColor:'#e5a02d',tension:.3}]}});
-const link=v=>`<a href="https://youtube.com/shorts/${v.id}" target="_blank">${v.title}</a>`;
-s.innerHTML=sch.length?'<tr><th>Titolo<th>New York<th>Roma</tr>'+sch.map(v=>`<tr><td class="t">${link(v)}<td>${fmt(v.published,'America/New_York')}<td>${fmt(v.published,'Europe/Rome')}</tr>`).join(''):'<tr><td class="mut">Nessuno Short programmato</tr>';
-a.innerHTML='<tr><th>Titolo<th>Data<th>Views<th>Like<th>Comm.<th>Durata</tr>'+[...D.items].reverse().map(v=>`<tr><td class="t">${link(v)}${v.scheduled?' <span class="tag">programmato</span>':''}<td>${fmt(v.published,'Europe/Rome')}<td>${f(v.views)}<td>${f(v.likes)}<td>${v.comments}<td>${v.sec}s</tr>`).join('');
+if(window.Chart){Chart.defaults.color='#5fa0b3';Chart.defaults.font.family="'Share Tech Mono',monospace";Chart.defaults.borderColor='#19e3ff22';
+new Chart(c1,{type:'bar',data:{labels:lab,datasets:[{label:'VIEWS / SHORT',data:pub.map(v=>v.views),backgroundColor:'#19e3ff88',borderColor:'#19e3ff',borderWidth:1}]}});
+let cum=0;new Chart(c2,{type:'line',data:{labels:lab,datasets:[{label:'VIEWS CUMULATE',data:pub.map(v=>cum+=v.views),borderColor:'#19e3ff',backgroundColor:'#19e3ff22',fill:true,tension:.3,pointBackgroundColor:'#fff'},
+{label:'LIKE',data:pub.map(v=>v.likes),borderColor:'#ff9d2e',tension:.3,pointBackgroundColor:'#ff9d2e'}]}})}
+const link=v=>`<a href="https://youtube.com/shorts/${v.id}" target="_blank" rel="noopener">${v.title}</a>`;
+s.innerHTML=sch.length?'<tr><th>Titolo<th>New York<th>Roma<th>Conto alla rovescia</tr>'+sch.map(v=>`<tr><td class="t">${link(v)}<td class="n">${fmt(v.published,'America/New_York')}<td class="n">${fmt(v.published,'Europe/Rome')}<td class="cd" data-t="${v.published}"></tr>`).join(''):'<tr><td class="empty">// NESSUNO SHORT IN CODA</tr>';
+a.innerHTML='<tr><th>Titolo<th>Data<th>Views<th>Like<th>Comm.<th>Durata</tr>'+[...D.items].reverse().map(v=>`<tr><td class="t">${link(v)}${v.scheduled?' <span class="tag">in coda</span>':''}<td class="n">${fmt(v.published,'Europe/Rome')}<td class="n">${f(v.views)}<td class="n">${f(v.likes)}<td class="n">${v.comments}<td class="n">${v.sec}s</tr>`).join('');
+tick();
 </script></body></html>"""
 
 if __name__ == "__main__":
