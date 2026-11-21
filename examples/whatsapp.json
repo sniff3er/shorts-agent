@@ -1,0 +1,32 @@
+{
+ "slug": "whatsapp",
+ "title": "From Food Stamps to a $19 Billion Deal #shorts",
+ "description": "As a teenager he lined up for food stamps. Years later, he signed a $19 billion deal on the door of that same welfare office.\nThe story of Jan Koum and WhatsApp.\nFollow for more true stories of fortunes made and lost.",
+ "hashtags": ["whatsapp", "startup", "success", "entrepreneur", "money", "business"],
+ "hook_text": "FROM FOOD STAMPS\nTO A $19 BILLION DEAL",
+ "highlight_words": ["NINETEEN BILLION", "SIXTEEN", "FIFTY-FIVE", "FOOD STAMPS", "BILLION"],
+ "first_comment": "Would you have sold for $19 billion, or held on? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic small grey apartment block in a poor Soviet-era town in winter, one lit window, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic teenage boy seen from behind standing in a line outside a plain government building in California, soft morning light, film grain, vertical composition, no face, no text, no logos"},
+  {"prompt": "Cinematic close-up of hands sweeping a grocery store floor at night under fluorescent light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic young man seen from behind coding late at night on an old laptop in a tiny room, screen glow, film grain, vertical composition, no face, no readable text, no logos"},
+  {"prompt": "Cinematic close-up of a smartphone in a hand with green chat message bubbles glowing, dark background, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic small open-plan startup office with about fifty empty desks at dusk, monitors on, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic close-up of a hand signing a thick contract pressed against an old wooden door, warm light, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a man standing on a hill above Silicon Valley at sunset, city lights below, film grain, vertical composition, no face, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "As a teenager, he lined up for food stamps.", "img": 1, "sfx": "none"},
+  {"text": "Years later, he signed a nineteen billion dollar deal.", "img": 6, "sfx": "impact"},
+  {"text": "Jan Koum grew up in Ukraine and moved to California at sixteen with his mother.", "img": 0, "sfx": "none"},
+  {"text": "They were so poor they lived on government help. He swept floors in a grocery store.", "img": 2, "sfx": "none"},
+  {"text": "He taught himself to program and got a job at Yahoo.", "img": 3, "sfx": "none"},
+  {"text": "In 2009, he built a simple app to send messages over the internet.", "img": 4, "sfx": "none"},
+  {"text": "No ads, no games, just messages. He called it WhatsApp.", "img": 4, "sfx": "none"},
+  {"text": "Within five years, hundreds of millions of people were using it.", "img": 5, "sfx": "riser"},
+  {"text": "In 2014, Facebook bought it for about nineteen billion dollars. The company had just fifty-five employees.", "img": 5, "sfx": "tick"},
+  {"text": "And he signed the deal on the door of the old welfare office where he once collected food stamps.", "img": 6, "sfx": "impact"},
+  {"text": "Follow for more true stories of fortunes made and lost.", "img": 7, "sfx": "none"}
+ ]
+}

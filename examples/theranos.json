@@ -1,0 +1,33 @@
+{
+ "slug": "theranos",
+ "title": "A $9 Billion Company Built on a Lie #shorts",
+ "description": "At 19, she dropped out of Stanford to build a machine that could run hundreds of tests from one drop of blood. Investors valued her company at $9 billion. The machine never worked.\nThe rise and fall of Theranos.\nFollow for more true stories of fortunes made and lost.",
+ "hashtags": ["theranos", "startup", "scandal", "siliconvalley", "money", "business"],
+ "hook_text": "$9 BILLION COMPANY\nBUILT ON A LIE",
+ "highlight_words": ["NINE BILLION", "NINETEEN", "ONE DROP", "HUNDREDS", "ELEVEN YEARS", "ZERO"],
+ "first_comment": "How did so many smart, rich investors never ask to see the machine work? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic single drop of red blood on a glass slide under a bright lab light, dark background, extreme close-up, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic silhouette of a young woman in a black turtleneck seen from behind on a stage facing a dark audience under one spotlight, film grain, vertical composition, no face, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic sleek white mysterious lab machine on a steel table in a dark empty laboratory, cold blue light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic glass Silicon Valley office building at dusk with palm trees, warm windows, luxury cars parked, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic close-up of a lab technician's gloved hands pouring blood samples into an ordinary old commercial analyzer hidden in a back room, dim red light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic newspaper printing press running at night, motion blur of pages, dramatic light, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty startup office with chairs on desks, boxes and unplugged lab machines, cold morning light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty courtroom with a wooden judge's bench lit by a cold beam of light, somber mood, film grain, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "At nineteen, she dropped out of Stanford with a promise.", "img": 1, "sfx": "none"},
+  {"text": "Hundreds of medical tests, from just one drop of blood.", "img": 0, "sfx": "impact"},
+  {"text": "Her company was called Theranos.", "img": 2, "sfx": "none"},
+  {"text": "Famous investors and powerful board members lined up behind her.", "img": 3, "sfx": "none"},
+  {"text": "By 2014, Theranos was valued at nine billion dollars.", "img": 3, "sfx": "tick"},
+  {"text": "There was just one problem. The machine didn't work.", "img": 2, "sfx": "impact"},
+  {"text": "In secret, many tests were run on ordinary machines bought from other companies.", "img": 4, "sfx": "none"},
+  {"text": "Real patients were getting results that could be wrong.", "img": 4, "sfx": "none"},
+  {"text": "In 2015, a Wall Street Journal reporter exposed everything.", "img": 5, "sfx": "riser"},
+  {"text": "The value fell to zero, and in 2018 the company shut down.", "img": 6, "sfx": "impact"},
+  {"text": "Its founder, Elizabeth Holmes, was convicted of fraud and sentenced to more than eleven years in prison.", "img": 7, "sfx": "none"},
+  {"text": "Follow for more true stories of fortunes made and lost.", "img": 0, "sfx": "none"}
+ ]
+}
