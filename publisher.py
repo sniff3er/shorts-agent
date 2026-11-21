@@ -195,6 +195,21 @@ def taken_times(token):
     return out
 
 
+def local_scheduled(output_dir):
+    """publish_at of uploads made from this machine (output/*/youtube.json). The channel's upload
+    playlist can take minutes to list a new video, so two uploads in a row could get the same slot."""
+    import glob
+    out = []
+    for f in glob.glob(os.path.join(output_dir, "*", "youtube.json")):
+        try:
+            at = json.load(open(f)).get("publish_at")
+        except (OSError, ValueError):
+            continue
+        if at:
+            out.append(_utc(at))
+    return out
+
+
 def next_slot(taken, now=None):
     """First slot (UTC, RFC3339) at least MIN_LEAD from now with no video within 90 min of it."""
     from zoneinfo import ZoneInfo
@@ -261,7 +276,7 @@ def publish(d, a, token=None):
         return
     token = token or access_token()
     if a.slot == "auto" and not a.at:
-        a.at = next_slot(taken_times(token))
+        a.at = next_slot(taken_times(token) + local_scheduled(os.path.dirname(d)))
         log(f"slot: {a.at}")
     log(f"uploading {slug} ({os.path.getsize(video) / 1e6:.1f} MB, "
         f"{'scheduled ' + a.at if a.at else a.privacy})")
