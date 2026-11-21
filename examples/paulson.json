@@ -1,0 +1,34 @@
+{
+ "slug": "paulson",
+ "title": "He Made $15 Billion Betting Against America #shorts",
+ "description": "In 2007, a hedge fund manager nobody knew bet against the US housing market while Wall Street laughed. Then the bubble burst.\nFollow for more stories of fortunes made overnight.",
+ "hashtags": ["finance", "money", "stockmarket", "paulson", "2008crisis", "history"],
+ "hook_text": "HE MADE $15 BILLION\nBETTING AGAINST AMERICA",
+ "highlight_words": ["FIFTEEN BILLION", "TWO THOUSAND AND SEVEN", "JOHN PAULSON", "ALMOST NOTHING", "NEARLY FOUR BILLION", "LAUGHED"],
+ "first_comment": "Genius or lucky? Paulson saw what the banks 'missed', or ignored. What do you think? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic Manhattan skyline at dusk seen from a high glass office, moody blue light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a lone man in a suit at a window of a dark office overlooking New York, backlight, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic rows of identical suburban houses with For Sale signs at golden hour, aerial view, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stack of thick folders and documents on a polished boardroom table under cold light, tense mood, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic bankers in suits laughing around a glass conference table, shallow depth of field, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic abandoned suburban house with an overgrown lawn and boarded windows, grey sky, somber mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic trading screens glowing red with falling lines in a dark room, panic mood, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic huge pile of cash bundles lit by a single dramatic spotlight in a dark vault, film grain, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "In two thousand and seven, a hedge fund manager nobody knew made fifteen billion dollars in one year.", "img": 0, "sfx": "none"},
+  {"text": "His name was John Paulson.", "img": 1, "sfx": "impact"},
+  {"text": "And he had never traded housing before.", "img": 1, "sfx": "none"},
+  {"text": "In two thousand and six, he noticed something strange.", "img": 2, "sfx": "tick"},
+  {"text": "Americans were buying houses they could not afford.", "img": 2, "sfx": "none"},
+  {"text": "Banks packed those risky loans into bonds and called them safe.", "img": 3, "sfx": "none"},
+  {"text": "Paulson decided to bet against them.", "img": 3, "sfx": "riser"},
+  {"text": "The bet cost him almost nothing. If he was wrong, he would lose little.", "img": 3, "sfx": "none"},
+  {"text": "Wall Street laughed at him.", "img": 4, "sfx": "impact"},
+  {"text": "Then homeowners stopped paying.", "img": 5, "sfx": "impact"},
+  {"text": "The bonds collapsed, and his bets exploded.", "img": 6, "sfx": "none"},
+  {"text": "His funds made fifteen billion dollars. He took home nearly four billion himself.", "img": 7, "sfx": "tick"},
+  {"text": "Follow for more stories of fortunes made overnight.", "img": 0, "sfx": "none"}
+ ]
+}
