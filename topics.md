@@ -7,3 +7,4 @@
 - 2026-11-19 | gamestop | He Turned $53,000 Into $48 Million (Keith Gill, GameStop)
 - 2026-11-21 | theranos | A $9 Billion Company Built on a Lie (Theranos)
 - 2026-11-21 | whatsapp | From Food Stamps to a $19 Billion Deal (Jan Koum, WhatsApp)
+- 2026-11-21 | madoff | The $65 Billion Lie That Fooled Wall Street (Bernie Madoff)

@@ -1,0 +1,34 @@
+{
+ "slug": "madoff",
+ "title": "The $65 Billion Lie That Fooled Wall Street #shorts",
+ "description": "For decades, Bernie Madoff paid investors steady returns. The money was never there. The biggest Ponzi scheme in history, and the sons who turned him in.\nFollow for more true stories of fortunes made and lost.",
+ "hashtags": ["madoff", "ponzi", "scam", "wallstreet", "money", "truecrime"],
+ "hook_text": "THE $65 BILLION\nLIE WALL STREET BELIEVED",
+ "highlight_words": ["SIXTY-FIVE BILLION", "BILLION", "ONE HUNDRED FIFTY", "TEN PERCENT", "NOTHING", "TWO THOUSAND EIGHT"],
+ "first_comment": "Would you have invested with him if every friend of yours already had? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic Manhattan skyscraper at night, a single lit office window high above, dark moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of an elderly man in a suit standing at a tall office window overlooking New York City at dusk, dramatic backlight, film grain, vertical composition, no real face, no text"},
+  {"prompt": "Cinematic photo-realistic luxury country club dining room, wealthy guests in formal wear shaking hands, warm dim lighting, shallow depth of field, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic stack of thick paper ledgers and an old typewriter on a dark desk, single desk lamp, tense noir mood, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic Wall Street trading floor in chaos during the 2008 crash, screens flashing red, motion blur, dramatic red lighting, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty bank vault with the heavy door wide open, nothing inside, cold light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic two men in dark suits talking in a dim corridor, seen from behind, tense mood, film grain, vertical composition, no faces, no text"},
+  {"prompt": "Cinematic photo-realistic prison corridor with a heavy steel door and cold light falling on the floor, somber mood, film grain, vertical composition, no text"}
+ ],
+ "lines": [
+  {"text": "For decades, he paid his investors like clockwork.", "img": 0, "sfx": "none"},
+  {"text": "About ten percent a year. In good markets and bad.", "img": 1, "sfx": "none"},
+  {"text": "His name was Bernie Madoff, a Wall Street legend.", "img": 1, "sfx": "impact"},
+  {"text": "Banks, charities and celebrities begged to get in.", "img": 2, "sfx": "none"},
+  {"text": "But there was a secret.", "img": 3, "sfx": "riser"},
+  {"text": "He never invested their money. Not really.", "img": 3, "sfx": "impact"},
+  {"text": "He paid old investors with the deposits of new ones.", "img": 3, "sfx": "tick"},
+  {"text": "Then two thousand eight hit, and everyone wanted their money back.", "img": 4, "sfx": "riser"},
+  {"text": "Clients asked for seven billion dollars. He didn't have it.", "img": 5, "sfx": "impact"},
+  {"text": "He told his sons it was all one big lie, and they called the authorities.", "img": 6, "sfx": "none"},
+  {"text": "The accounts showed sixty-five billion dollars. The real amount was close to nothing.", "img": 5, "sfx": "tick"},
+  {"text": "He got one hundred and fifty years in prison.", "img": 7, "sfx": "impact"},
+  {"text": "Follow for more stories of fortunes made and lost.", "img": 0, "sfx": "none"}
+ ]
+}
