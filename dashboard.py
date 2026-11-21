@@ -131,5 +131,10 @@ tick();
 if __name__ == "__main__":
     data = fetch(P.access_token())
     os.makedirs("output", exist_ok=True)
-    open("output/dashboard.html", "w").write(HTML.replace("__DATA__", json.dumps(data)))
+    html = HTML.replace("__DATA__", json.dumps(data))
+    open("output/dashboard.html", "w").write(html)
+    # versione per Artifact (senza doctype/head)
+    page = re.sub(r'<!doctype html><html lang="it"><head><meta charset="utf-8">\s*<meta name="viewport"[^>]*>', "", html)
+    page = page.replace("</head><body>", "").replace("</body></html>", "")
+    open("output/dashboard_artifact.html", "w").write(page)
     print("output/dashboard.html", len(data["items"]), "video")
