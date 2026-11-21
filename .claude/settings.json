@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 agent.py:*)",
+      "Bash(python3 publisher.py:*)",
+      "Bash(python3 engager.py:*)",
+      "Bash(python3 -m pip install -q -r requirements.txt)",
+      "Bash(git pull:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push origin main)"
+    ]
+  }
+}
