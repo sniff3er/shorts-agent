@@ -1,0 +1,33 @@
+{
+ "slug": "soros_pound",
+ "title": "He Made $1 Billion in One Day Betting Against Britain #shorts",
+ "description": "On September 16, 1992, George Soros bet ten billion dollars against the British pound and won over one billion in a single day. The story of Black Wednesday.\nFollow for more stories of fortunes made and lost.",
+ "hashtags": ["finance", "money", "soros", "blackwednesday", "trading", "history"],
+ "hook_text": "HE BET AGAINST BRITAIN\nAND WON $1 BILLION IN A DAY",
+ "highlight_words": ["ONE BILLION", "TEN BILLION", "TWELVE", "FIFTEEN PERCENT", "ONE DAY", "BANK OF ENGLAND"],
+ "first_comment": "Genius trade or unfair attack on a country? Where do you draw the line? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic Bank of England facade in London at dusk, dark moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a lone elderly man in a suit standing at a high office window over a Manhattan skyline at night, dramatic backlight, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic close-up of a British pound coin spinning on a dark table, cold spotlight, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic bank of glowing trading screens in a dark room, red and green lights, silhouettes of traders from behind, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stressed officials in suits seen from behind in a dim government office, phones ringing, tense mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic London street in the rain at night, red double-decker bus, wet pavement, somber mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic stacks of cash and a briefcase on a dark desk under a single lamp, noir mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic London newspaper stands at dawn with stacks of papers, moody blue light, film grain, vertical composition, no readable text, no logos"}
+ ],
+ "lines": [
+  {"text": "In one day, he made over one billion dollars betting against a country.", "img": 0, "sfx": "impact"},
+  {"text": "That country was Britain.", "img": 0, "sfx": "none"},
+  {"text": "It was nineteen ninety-two, and George Soros saw a weakness.", "img": 1, "sfx": "none"},
+  {"text": "Britain was holding the pound at a price the market said was too high.", "img": 2, "sfx": "none"},
+  {"text": "So Soros and his fund bet ten billion dollars that the pound would fall.", "img": 3, "sfx": "tick"},
+  {"text": "On September sixteenth, the Bank of England fought back.", "img": 4, "sfx": "riser"},
+  {"text": "It raised interest rates from ten to twelve percent. Then to fifteen percent, in a single day.", "img": 4, "sfx": "impact"},
+  {"text": "It didn't work. Traders kept selling.", "img": 5, "sfx": "none"},
+  {"text": "That evening, Britain gave up and pulled the pound out of the system.", "img": 5, "sfx": "none"},
+  {"text": "The pound crashed, and Soros walked away with over one billion dollars.", "img": 6, "sfx": "impact"},
+  {"text": "The press called him the man who broke the Bank of England.", "img": 7, "sfx": "none"},
+  {"text": "Follow for more true stories of fortunes made and lost.", "img": 0, "sfx": "none"}
+ ]
+}

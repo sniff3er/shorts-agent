@@ -10,3 +10,4 @@
 - 2026-11-21 | madoff | The $65 Billion Lie That Fooled Wall Street (Bernie Madoff)
 - 2026-11-21 | paulson | He Made $15 Billion Betting Against America (John Paulson, subprime)
 - 2026-11-22 | knight_capital | A Bug Erased $440 Million in 45 Minutes (Knight Capital)
+- 2026-11-22 | soros_pound | He Made $1 Billion in One Day Betting Against Britain (George Soros, Black Wednesday)
