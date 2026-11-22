@@ -1,0 +1,34 @@
+{
+ "slug": "knight_capital",
+ "title": "A Bug Erased $440 Million in 45 Minutes #shorts",
+ "description": "On August 1, 2012, Knight Capital pushed new trading software to its servers. One server was missed. Forty-five minutes later, the firm had lost four hundred and forty million dollars.\nFollow for more true stories of fortunes made and lost.",
+ "hashtags": ["finance", "money", "stockmarket", "knightcapital", "wallstreet", "trading"],
+ "hook_text": "45 MINUTES.\n$440 MILLION GONE",
+ "highlight_words": ["FORTY-FIVE MINUTES", "FOUR HUNDRED AND FORTY MILLION", "SEVEN", "EIGHT", "FOUR HUNDRED MILLION", "ONE SERVER", "TWO THOUSAND AND THREE"],
+ "first_comment": "Who's to blame: the engineer who missed one server, or the firm that had no kill switch? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic Wall Street at dawn, empty street, tall glass towers, dark moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic rows of glowing servers in a dark data center, blue light, one server with a red blinking light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a programmer at a keyboard in a dark office, code reflecting on glasses, backlight, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stock trading screens flashing red numbers in a dark room, chaos, motion blur, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic close-up of a wall clock ticking past nine thirty in a trading office, tense mood, red light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic panicked traders silhouettes standing behind desks with phones, red glow of screens, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty boardroom at night, long table, city lights through window, somber mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic single broken red power switch on a dark wall, cold spotlight, dust, film grain, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "On August first, twenty twelve, a Wall Street firm lost four hundred and forty million dollars in forty-five minutes.", "img": 0, "sfx": "impact"},
+  {"text": "Not to a crash. Not to fraud. To a software update.", "img": 1, "sfx": "none"},
+  {"text": "The firm was Knight Capital, one of the biggest traders in America.", "img": 0, "sfx": "none"},
+  {"text": "That morning, engineers installed new code on eight servers.", "img": 2, "sfx": "none"},
+  {"text": "They updated only seven.", "img": 1, "sfx": "impact"},
+  {"text": "The eighth still held a dead program from two thousand and three.", "img": 2, "sfx": "tick"},
+  {"text": "At nine thirty, the market opened, and the old code woke up.", "img": 4, "sfx": "riser"},
+  {"text": "It started buying and selling stocks like crazy. Millions of orders, and nobody could stop it.", "img": 3, "sfx": "impact"},
+  {"text": "There was no kill switch. Traders watched it burn money in real time.", "img": 5, "sfx": "none"},
+  {"text": "In forty-five minutes, it lost four hundred and forty million dollars. More than the firm was worth.", "img": 3, "sfx": "tick"},
+  {"text": "Knight survived only with a four hundred million dollar rescue, and was sold a year later.", "img": 6, "sfx": "impact"},
+  {"text": "One missed server. One company gone.", "img": 7, "sfx": "none"},
+  {"text": "Follow for more true stories of fortunes made and lost.", "img": 0, "sfx": "none"}
+ ]
+}

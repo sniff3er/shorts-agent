@@ -9,3 +9,4 @@
 - 2026-11-21 | whatsapp | From Food Stamps to a $19 Billion Deal (Jan Koum, WhatsApp)
 - 2026-11-21 | madoff | The $65 Billion Lie That Fooled Wall Street (Bernie Madoff)
 - 2026-11-21 | paulson | He Made $15 Billion Betting Against America (John Paulson, subprime)
+- 2026-11-22 | knight_capital | A Bug Erased $440 Million in 45 Minutes (Knight Capital)
