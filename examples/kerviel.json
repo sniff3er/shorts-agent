@@ -1,0 +1,34 @@
+{
+ "slug": "kerviel",
+ "title": "He Lost $7 Billion and Nobody Noticed for a Year #shorts",
+ "description": "In 2008, a junior trader at Societe Generale hid fake trades behind a mountain of bets worth fifty billion euros. The bank found out too late.\nFollow for more stories of money that vanished overnight.",
+ "hashtags": ["finance", "money", "stockmarket", "kerviel", "societegenerale", "trading"],
+ "hook_text": "HE LOST\n$7 BILLION\nAND NOBODY NOTICED",
+ "highlight_words": ["FIFTY BILLION", "FOUR POINT NINE BILLION", "FAKE", "FRENCH", "THREE DAYS", "FIVE YEARS", "SEVEN BILLION"],
+ "first_comment": "Did Kerviel act alone, or did the bank look away as long as he was making money? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic glass skyscraper bank headquarters in Paris at night, rain on the windows, dark moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a lone young trader in a dark open-plan office facing six glowing screens, dramatic backlight, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic close-up of a hand typing on a keyboard in the dark, green code reflecting on glasses, tense noir mood, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stacks of paper reports and a ticking wall clock in a dim compliance office, empty desk, cold light, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic huge wall of stock market screens all flashing red, global market crash, dramatic red lighting, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic dark boardroom with executives in suits standing around a table, tense faces in shadow, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty trading desk with a single chair and dark screens, cold spotlight, somber mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic courthouse steps in Paris at dawn, long shadows, press cameras silhouettes, somber mood, vertical composition, no text"}
+ ],
+ "lines": [
+  {"text": "In January 2008, a French bank discovered it had lost seven billion dollars.", "img": 0, "sfx": "none"},
+  {"text": "One junior trader did it.", "img": 1, "sfx": "impact"},
+  {"text": "His name was Jerome Kerviel, and he was thirty-one.", "img": 1, "sfx": "none"},
+  {"text": "He knew exactly how the bank's controls worked.", "img": 2, "sfx": "riser"},
+  {"text": "So he made fake trades, to hide the real ones.", "img": 2, "sfx": "tick"},
+  {"text": "Behind them, he built a bet worth fifty billion euros.", "img": 3, "sfx": "impact"},
+  {"text": "More than the whole bank was worth.", "img": 3, "sfx": "none"},
+  {"text": "For a year, no one stopped him.", "img": 3, "sfx": "tick"},
+  {"text": "Then the auditors found a trade that didn't exist.", "img": 5, "sfx": "riser"},
+  {"text": "The bank had three days to close everything, while markets crashed worldwide.", "img": 4, "sfx": "impact"},
+  {"text": "The final loss: four point nine billion euros.", "img": 4, "sfx": "tick"},
+  {"text": "Kerviel was sentenced to five years, but claimed his bosses knew.", "img": 7, "sfx": "none"},
+  {"text": "Follow for more stories of money that vanished overnight.", "img": 0, "sfx": "none"}
+ ]
+}
