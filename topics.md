@@ -12,3 +12,4 @@
 - 2026-11-22 | knight_capital | A Bug Erased $440 Million in 45 Minutes (Knight Capital)
 - 2026-11-22 | soros_pound | He Made $1 Billion in One Day Betting Against Britain (George Soros, Black Wednesday)
 - 2026-11-23 | kerviel | He Lost $7 Billion and Nobody Noticed (Jerome Kerviel, Societe Generale)
+- 2026-11-23 | instagram | 13 Employees Sold for $1 Billion (Kevin Systrom, Instagram)
