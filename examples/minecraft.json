@@ -1,0 +1,34 @@
+{
+ "slug": "minecraft",
+ "title": "He Built a Game Alone and Sold It for $2.5 Billion #shorts",
+ "description": "In 2009 a Swedish programmer started a small side project. Five years later Microsoft paid two and a half billion dollars for it. The story of Minecraft and Markus Persson.\nFollow for more true stories of fortunes made and lost.",
+ "hashtags": ["finance", "money", "minecraft", "startup", "billionaire", "business"],
+ "hook_text": "ONE MAN. ONE GAME.\n$2.5 BILLION",
+ "highlight_words": ["TWO AND A HALF BILLION", "BILLION", "FORTY", "TWO THOUSAND AND NINE", "MINECRAFT", "MICROSOFT", "THREE HUNDRED MILLION"],
+ "first_comment": "Would you have sold Minecraft for $2.5 billion, or kept it forever? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic dark bedroom desk at night, a glowing computer monitor showing colorful blocky pixel landscape, empty energy drink cans, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a programmer from behind typing at a computer in a dark room, blue screen glow, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic macro of a hand on a computer mouse in front of a screen of colorful cube-shaped blocks forming a landscape, shallow depth of field, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic small cramped startup office in Stockholm with a few desks and monitors at dusk, warm lamp light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic crowd of kids' silhouettes holding glowing tablets in a dark room, blocky pixel light on their faces, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic glass skyscraper boardroom at night, long polished table with a single briefcase, city lights, dramatic mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic pen signing a contract on a dark desk, close-up, cold spotlight, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic lone figure silhouette standing on a balcony of a luxury villa at dusk overlooking a city, somber mood, film grain, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "He built a video game alone, and sold it for two and a half billion dollars.", "img": 0, "sfx": "impact"},
+  {"text": "In two thousand and nine, Markus Persson was a Swedish programmer with a day job.", "img": 1, "sfx": "none"},
+  {"text": "At night, he worked on a strange side project.", "img": 1, "sfx": "none"},
+  {"text": "A game made of blocks, with no real goal.", "img": 2, "sfx": "none"},
+  {"text": "No publisher. No marketing budget.", "img": 2, "sfx": "tick"},
+  {"text": "He just put an early version online and let people pay to play.", "img": 3, "sfx": "none"},
+  {"text": "They told their friends. Then their friends told theirs.", "img": 4, "sfx": "riser"},
+  {"text": "Within a few years, Minecraft was one of the biggest games on Earth.", "img": 4, "sfx": "impact"},
+  {"text": "His tiny studio, Mojang, had around forty employees.", "img": 3, "sfx": "tick"},
+  {"text": "Then, in two thousand and fourteen, Microsoft made an offer.", "img": 5, "sfx": "riser"},
+  {"text": "Two and a half billion dollars.", "img": 6, "sfx": "impact"},
+  {"text": "Today Minecraft has sold over three hundred million copies, the best-selling game ever.", "img": 4, "sfx": "none"},
+  {"text": "Follow for more true stories of fortunes made and lost.", "img": 7, "sfx": "none"}
+ ]
+}
