@@ -1,0 +1,35 @@
+{
+ "slug": "bitcoin_pizza",
+ "title": "Two Pizzas Cost Him $1 Billion #shorts",
+ "description": "In 2010, a programmer paid ten thousand Bitcoin for two pizzas. At Bitcoin's peak, those coins were worth over a billion dollars.\nFollow for more stories of money that vanished overnight.",
+ "hashtags": ["finance", "money", "bitcoin", "crypto", "history", "pizza"],
+ "hook_text": "TWO PIZZAS\nCOST HIM $1 BILLION",
+ "highlight_words": ["TEN THOUSAND", "BITCOIN", "TWO PIZZAS", "FORTY-ONE DOLLARS", "ONE BILLION DOLLARS", "TWENTY TEN"],
+ "first_comment": "Be honest: would you have kept the coins, or eaten the pizza too? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic two pizza boxes on a messy programmer's desk next to a glowing laptop, dark room, moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a programmer at a computer at night, green code reflecting on his glasses, no face visible, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic single golden coin glowing on a dark circuit board, shallow depth of field, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic pizza delivery bag handed over a doorstep at dusk, warm porch light, hands only, no faces, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic close-up of a steaming pizza slice being lifted from the box, dramatic warm light, dark background, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic glowing golden line chart soaring upward on a dark trading screen, dramatic light, motion blur, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic mountain of shining gold coins in a dark vault, a single pizza box on top, dramatic spotlight, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic lone man silhouette looking out a window at a city skyline at dusk, reflective mood, film grain, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "In twenty ten, a programmer paid ten thousand Bitcoin for two pizzas.", "img": 0, "sfx": "none"},
+  {"text": "His name was Laszlo Hanyecz.", "img": 1, "sfx": "impact"},
+  {"text": "Back then, Bitcoin was worth almost nothing.", "img": 2, "sfx": "none"},
+  {"text": "On May twenty-second, he posted an offer on a forum: pizza for Bitcoin.", "img": 1, "sfx": "tick"},
+  {"text": "A stranger accepted, and ordered two pizzas to his door.", "img": 3, "sfx": "none"},
+  {"text": "The bill was forty-one dollars.", "img": 4, "sfx": "impact"},
+  {"text": "Everyone cheered. Bitcoin had bought something real.", "img": 4, "sfx": "none"},
+  {"text": "Then Bitcoin began to climb.", "img": 5, "sfx": "riser"},
+  {"text": "Ten dollars. One hundred. Ten thousand.", "img": 5, "sfx": "tick"},
+  {"text": "At its peak, those same coins were worth over one billion dollars.", "img": 6, "sfx": "impact"},
+  {"text": "The most expensive pizza in history.", "img": 6, "sfx": "none"},
+  {"text": "He kept paying for pizzas with Bitcoin for months.", "img": 7, "sfx": "none"},
+  {"text": "Today, that day is celebrated as Bitcoin Pizza Day.", "img": 7, "sfx": "none"},
+  {"text": "Follow for more stories of money that vanished overnight.", "img": 0, "sfx": "none"}
+ ]
+}

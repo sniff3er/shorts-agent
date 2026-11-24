@@ -13,3 +13,4 @@
 - 2026-11-22 | soros_pound | He Made $1 Billion in One Day Betting Against Britain (George Soros, Black Wednesday)
 - 2026-11-23 | kerviel | He Lost $7 Billion and Nobody Noticed (Jerome Kerviel, Societe Generale)
 - 2026-11-23 | instagram | 13 Employees Sold for $1 Billion (Kevin Systrom, Instagram)
+- 2026-11-24 | bitcoin_pizza | Two Pizzas Cost Him $1 Billion (Laszlo Hanyecz, Bitcoin Pizza Day)
