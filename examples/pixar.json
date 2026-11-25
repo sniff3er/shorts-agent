@@ -1,0 +1,34 @@
+{
+ "slug": "pixar",
+ "title": "He Bought a Failing Studio for $10 Million. It Became $7 Billion #shorts",
+ "description": "In 1986, Steve Jobs, fired from Apple, bought a small computer graphics company from George Lucas. It nearly bankrupted him, until Toy Story.\nFollow for more stories of fortunes made overnight.",
+ "hashtags": ["finance", "money", "stevejobs", "pixar", "business", "history"],
+ "hook_text": "FIRED FROM APPLE,\nHE BOUGHT A STUDIO FOR $10 MILLION",
+ "highlight_words": ["TEN MILLION", "SEVEN BILLION", "ONE BILLION", "ONE WEEK", "TOY STORY", "FIRED", "LARGEST SHAREHOLDER"],
+ "first_comment": "Genius bet or pure luck? Would you have kept funding a studio that burned money for ten years? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic silhouette of a man in a black turtleneck walking out of a modern glass corporate building at dusk, lonely mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic dim 1980s computer lab with glowing early 3D graphics workstations, a few engineers silhouetted, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic close-up of a signed contract and a pen on a dark desk, a ten million dollar check beside it, dramatic lamp light, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty startup office at night, stacks of unpaid bills on a desk, flickering fluorescent light, tense mood, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic cute toy cowboy doll and toy space ranger toy on a child's bedroom floor, warm glowing light, shallow depth of field, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic packed 1990s movie theater audience watching a bright screen, glowing faces from behind, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic stock exchange trading floor in the 1990s, screens glowing green, celebrating traders, motion blur, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic fairytale castle at dusk glowing with golden light, dramatic clouds, a single dark figure in front, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "In 1985, Steve Jobs was fired from the company he founded.", "img": 0, "sfx": "none"},
+  {"text": "So he bought a small computer graphics studio from George Lucas.", "img": 1, "sfx": "none"},
+  {"text": "The price: ten million dollars.", "img": 2, "sfx": "impact"},
+  {"text": "It was called Pixar, and it lost money every single year.", "img": 3, "sfx": "none"},
+  {"text": "Jobs kept pouring in his own fortune just to pay the salaries.", "img": 3, "sfx": "tick"},
+  {"text": "Ten years later, he was nearly out of patience.", "img": 3, "sfx": "none"},
+  {"text": "Then, in 1995, came Toy Story, the first fully computer-animated movie.", "img": 4, "sfx": "riser"},
+  {"text": "It was a monster hit.", "img": 5, "sfx": "impact"},
+  {"text": "One week later, Pixar went public.", "img": 6, "sfx": "none"},
+  {"text": "In a single day, Jobs's stake was worth over one billion dollars.", "img": 6, "sfx": "impact"},
+  {"text": "In 2006, Disney bought Pixar for seven billion dollars.", "img": 7, "sfx": "tick"},
+  {"text": "Jobs became Disney's largest shareholder.", "img": 7, "sfx": "impact"},
+  {"text": "Follow for more stories of fortunes made overnight.", "img": 0, "sfx": "none"}
+ ]
+}

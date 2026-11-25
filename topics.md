@@ -16,3 +16,4 @@
 - 2026-11-24 | bitcoin_pizza | Two Pizzas Cost Him $1 Billion (Laszlo Hanyecz, Bitcoin Pizza Day)
 - 2026-11-24 | minecraft | He Built a Game Alone and Sold It for $2.5 Billion (Markus Persson, Minecraft)
 - 2026-11-25 | ftx | He Was Worth $32 Billion. Then It All Vanished (Sam Bankman-Fried, FTX)
+- 2026-11-25 | pixar | He Bought a Failing Studio for $10 Million. It Became $7 Billion (Steve Jobs, Pixar)
