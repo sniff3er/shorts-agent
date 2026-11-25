@@ -15,3 +15,4 @@
 - 2026-11-23 | instagram | 13 Employees Sold for $1 Billion (Kevin Systrom, Instagram)
 - 2026-11-24 | bitcoin_pizza | Two Pizzas Cost Him $1 Billion (Laszlo Hanyecz, Bitcoin Pizza Day)
 - 2026-11-24 | minecraft | He Built a Game Alone and Sold It for $2.5 Billion (Markus Persson, Minecraft)
+- 2026-11-25 | ftx | He Was Worth $32 Billion. Then It All Vanished (Sam Bankman-Fried, FTX)

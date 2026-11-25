@@ -1,0 +1,34 @@
+{
+ "slug": "ftx",
+ "title": "He Was Worth $32 Billion. Then It All Vanished #shorts",
+ "description": "In November 2022, Sam Bankman-Fried's crypto empire FTX collapsed in days, leaving an eight billion dollar hole in customer funds. He got twenty-five years in prison.\nFollow for more stories of money that vanished overnight.",
+ "hashtags": ["finance", "money", "crypto", "ftx", "samBankmanFried", "scam"],
+ "hook_text": "WORTH $32 BILLION.\nGONE IN DAYS",
+ "highlight_words": ["THIRTY-TWO", "BILLION", "EIGHT BILLION", "TWENTY-FIVE", "ELEVEN DAYS", "NINETY-FOUR"],
+ "first_comment": "Was Sam Bankman-Fried a genius who got reckless, or a fraud from day one? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic glowing city skyline at night with a giant luxury glass tower, golden light, dramatic, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a young man in a t-shirt and shorts sitting on a bean bag next to a laptop in a dark office, dramatic backlight, vertical composition, no real face, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic stacks of gold coins and glowing digital screens with green charts in a dark room, luxury and excess, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic close-up of a hidden locked vault door slightly open with light spilling out, tense noir mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic computer screens filled with red crashing charts in a dark room, panic, motion blur, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic crowd of anxious people looking at their phones at night, red glow on their faces, vertical composition, no real faces, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty glass office with papers scattered on the floor and a single flickering light, abandoned, somber mood, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic courthouse steps at dawn with a heavy door and a gavel on a dark wooden table, cold light, somber mood, vertical composition, no real faces, no text"}
+ ],
+ "lines": [
+  {"text": "In one week, he went from thirty-two billion dollars to nothing.", "img": 0, "sfx": "impact"},
+  {"text": "His name was Sam Bankman-Fried.", "img": 1, "sfx": "none"},
+  {"text": "At twenty-nine, he was the face of crypto, and his exchange FTX was worth thirty-two billion.", "img": 2, "sfx": "none"},
+  {"text": "But behind the curtain, there was a secret.", "img": 3, "sfx": "riser"},
+  {"text": "He was quietly using customer money to fund bets at his own trading firm.", "img": 3, "sfx": "tick"},
+  {"text": "Then, in November twenty twenty-two, a leaked report exposed the hole.", "img": 4, "sfx": "impact"},
+  {"text": "Customers rushed to withdraw. Six billion dollars left in just seventy-two hours.", "img": 5, "sfx": "tick"},
+  {"text": "FTX did not have the money.", "img": 5, "sfx": "impact"},
+  {"text": "Eleven days later, it filed for bankruptcy.", "img": 6, "sfx": "none"},
+  {"text": "Eight billion dollars of customer money was missing.", "img": 6, "sfx": "impact"},
+  {"text": "His own fortune collapsed by ninety-four percent in a single day.", "img": 4, "sfx": "none"},
+  {"text": "He was convicted of fraud and sentenced to twenty-five years in prison.", "img": 7, "sfx": "impact"},
+  {"text": "Follow for more stories of money that vanished overnight.", "img": 0, "sfx": "none"}
+ ]
+}
