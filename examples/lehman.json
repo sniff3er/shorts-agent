@@ -1,0 +1,35 @@
+{
+ "slug": "lehman",
+ "title": "A 158-Year-Old Bank Died in One Weekend #shorts",
+ "description": "In September 2008, Lehman Brothers, a bank that had survived the Civil War and the Great Depression, filed the biggest bankruptcy in American history.\nFollow for more stories of fortunes lost overnight.",
+ "hashtags": ["finance", "money", "lehmanbrothers", "2008crisis", "business", "history"],
+ "hook_text": "A 158-YEAR-OLD BANK\nDIED IN ONE WEEKEND",
+ "highlight_words": ["SIX HUNDRED THIRTY NINE BILLION", "ONE HUNDRED FIFTY EIGHT YEARS", "BANKRUPTCY", "FIVE HUNDRED FOUR POINTS", "BOXES", "ONE SUNDAY"],
+ "first_comment": "Should the government have saved Lehman? Or was letting it fail the right call? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic tall glass Wall Street skyscraper at dawn, moody blue light, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic vintage 1850s sepia street with horse carriages and a brick merchant office, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic bank trading floor in the 2000s, rows of screens glowing, traders in shirts, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stacks of house keys and foreclosed suburban houses in a row, grey sky, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic dark conference room at night, executives silhouetted around a long table, tense mood, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stock market screens all glowing red, panicked traders with hands on heads, motion blur, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic office worker carrying a cardboard box down a city sidewalk in the rain, from behind, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic empty dark skyscraper lobby with a single flickering light, lonely mood, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "It survived the Civil War, and the Great Depression.", "img": 1, "sfx": "none"},
+  {"text": "Lehman Brothers was one hundred fifty eight years old.", "img": 0, "sfx": "none"},
+  {"text": "By 2008, it was the fourth biggest investment bank in America.", "img": 2, "sfx": "tick"},
+  {"text": "But it had bet everything on one thing: American houses.", "img": 3, "sfx": "riser"},
+  {"text": "When homeowners stopped paying, those bets turned toxic.", "img": 3, "sfx": "none"},
+  {"text": "The bank owed more than six hundred billion dollars.", "img": 4, "sfx": "impact"},
+  {"text": "On one Sunday in September, rivals met to save it.", "img": 4, "sfx": "none"},
+  {"text": "Nobody would take the risk, and the government said no.", "img": 4, "sfx": "tick"},
+  {"text": "At dawn, Lehman filed for bankruptcy.", "img": 5, "sfx": "impact"},
+  {"text": "Six hundred thirty nine billion dollars in assets, the biggest bankruptcy in history.", "img": 5, "sfx": "impact"},
+  {"text": "The Dow fell five hundred four points that day.", "img": 5, "sfx": "none"},
+  {"text": "Employees walked out carrying their lives in cardboard boxes.", "img": 6, "sfx": "none"},
+  {"text": "And the whole world's banks began to fall.", "img": 7, "sfx": "riser"},
+  {"text": "Follow for more stories of fortunes lost overnight.", "img": 0, "sfx": "none"}
+ ]
+}
