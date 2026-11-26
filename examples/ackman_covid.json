@@ -1,0 +1,34 @@
+{
+ "slug": "ackman_covid",
+ "title": "He Turned $27 Million Into $2.6 Billion in One Month #shorts",
+ "description": "In early 2020, hedge fund manager Bill Ackman bet that the world was underpricing a pandemic. A tiny insurance-style bet became a $2.6 billion profit in about a month.\nFollow for more true stories of fortunes made and lost.",
+ "hashtags": ["finance", "money", "stockmarket", "ackman", "trading", "covid"],
+ "hook_text": "HE TURNED $27 MILLION\nINTO $2.6 BILLION",
+ "highlight_words": ["TWENTY-SEVEN MILLION", "TWO POINT SIX BILLION", "ONE MONTH", "HELL IS COMING", "INSURANCE"],
+ "first_comment": "Genius timing or pure luck? Would you have made this bet in February 2020? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic empty Wall Street at dawn, deserted street between skyscrapers, eerie fog, dark moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a man in a suit standing at a tall office window overlooking a city skyline at night, dramatic backlight, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic glowing computer screens with red and green abstract charts in a dark trading office, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic distant view of a cruise ship and a crowded airport terminal with faceless travelers walking, tense moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic hands signing a document with a fountain pen on a dark desk under a single lamp, noir mood, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic television studio with a lone empty chair and glowing monitors in a dark room, dramatic red lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic stock exchange trading floor in chaos, screens flashing red, papers flying, motion blur, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stacks of hundred dollar bills on a dark polished table, cold spotlight, golden glow, film grain, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "In February twenty twenty, a hedge fund manager spent twenty-seven million dollars on a strange bet.", "img": 0, "sfx": "none"},
+  {"text": "One month later, it was worth two point six billion.", "img": 7, "sfx": "impact"},
+  {"text": "His name is Bill Ackman.", "img": 1, "sfx": "none"},
+  {"text": "While markets were at record highs, he saw something others ignored.", "img": 2, "sfx": "none"},
+  {"text": "A virus was spreading across the world.", "img": 3, "sfx": "impact"},
+  {"text": "So he bought insurance against a crash in corporate debt. It cost almost nothing.", "img": 4, "sfx": "tick"},
+  {"text": "If he was wrong, he'd lose a tiny sliver of his fund.", "img": 4, "sfx": "none"},
+  {"text": "If he was right, the payoff would be enormous.", "img": 2, "sfx": "riser"},
+  {"text": "In March, he went on television and warned: hell is coming.", "img": 5, "sfx": "impact"},
+  {"text": "Days later, the market collapsed. Lockdowns shut the world.", "img": 6, "sfx": "none"},
+  {"text": "He sold his bet for a profit of two point six billion dollars.", "img": 7, "sfx": "tick"},
+  {"text": "Then he used the cash to buy stocks at the bottom.", "img": 6, "sfx": "none"},
+  {"text": "Follow for more true stories of fortunes made and lost.", "img": 0, "sfx": "none"}
+ ]
+}
