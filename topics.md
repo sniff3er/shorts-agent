@@ -19,3 +19,4 @@
 - 2026-11-25 | pixar | He Bought a Failing Studio for $10 Million. It Became $7 Billion (Steve Jobs, Pixar)
 - 2026-11-26 | lehman | A 158-Year-Old Bank Died in One Weekend (Lehman Brothers)
 - 2026-11-26 | ackman_covid | He Turned $27 Million Into $2.6 Billion in One Month (Bill Ackman, COVID hedge)
+- 2026-11-27 | hunt_silver | They Tried to Corner Silver. It Cost Them Billions (Hunt brothers, Silver Thursday)

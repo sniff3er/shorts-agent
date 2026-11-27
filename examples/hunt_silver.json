@@ -1,0 +1,34 @@
+{
+ "slug": "hunt_silver",
+ "title": "They Tried to Corner Silver. It Cost Them Billions #shorts",
+ "description": "In 1980, two Texas billionaire brothers tried to corner the world silver market. Silver hit nearly fifty dollars, then crashed in two months on Silver Thursday.\nFollow for more stories of money that vanished overnight.",
+ "hashtags": ["finance", "money", "silver", "huntbrothers", "investing", "history"],
+ "hook_text": "THEY TRIED TO\nCORNER SILVER",
+ "highlight_words": ["BILLIONAIRE", "SIX DOLLARS", "FIFTY DOLLARS", "ELEVEN DOLLARS", "BILLION", "SILVER THURSDAY", "BANKRUPT"],
+ "first_comment": "Greedy gamble or genius move that just came one rule too late? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic stacks of gleaming silver bars in a dark vault, dramatic spotlight, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of two wealthy men in cowboy hats and suits standing before a Texas oil field at sunset, 1970s mood, film grain, vertical composition, no real faces, no text"},
+  {"prompt": "Cinematic photo-realistic 1970s office with a rotary phone and a ticker tape machine, tense atmosphere, warm lamp light, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic silver coins and silverware piled up glowing in the dark, gold rush mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic chaotic 1980 commodities trading floor, traders shouting, red lights, papers flying, motion blur, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic dark boardroom with serious regulators in suits around a long table, cold light, tense mood, film grain, vertical composition, no real faces, no text"},
+  {"prompt": "Cinematic photo-realistic phone ringing on a desk at night with a stock chart glowing red on a screen behind, margin call mood, film grain, vertical composition, no readable text"},
+  {"prompt": "Cinematic photo-realistic empty luxury mansion study at dusk with a single tarnished silver bar on the desk, somber mood, film grain, vertical composition, no text"}
+ ],
+ "lines": [
+  {"text": "Two Texas billionaires tried to buy all the silver in the world.", "img": 0, "sfx": "none"},
+  {"text": "They almost pulled it off.", "img": 1, "sfx": "impact"},
+  {"text": "The Hunt brothers were worth billions from oil.", "img": 1, "sfx": "none"},
+  {"text": "But in the nineteen seventies, they feared that the dollar would collapse.", "img": 2, "sfx": "tick"},
+  {"text": "So they bought silver. Tons of it. And kept buying.", "img": 3, "sfx": "riser"},
+  {"text": "In a year, the price went from six dollars to nearly fifty.", "img": 3, "sfx": "impact"},
+  {"text": "Then the exchange changed the rules, and it banned new purchases.", "img": 5, "sfx": "none"},
+  {"text": "The price started falling. The brothers owed millions in margin calls.", "img": 6, "sfx": "tick"},
+  {"text": "On March twenty-seventh, nineteen eighty, silver crashed under eleven dollars.", "img": 4, "sfx": "impact"},
+  {"text": "They called it Silver Thursday.", "img": 4, "sfx": "none"},
+  {"text": "The brothers lost more than a billion dollars in two months.", "img": 6, "sfx": "impact"},
+  {"text": "Years later, they were banned from commodities markets, and one filed for bankruptcy.", "img": 7, "sfx": "none"},
+  {"text": "Follow for more stories of money that vanished overnight.", "img": 0, "sfx": "none"}
+ ]
+}
