@@ -1,0 +1,34 @@
+{
+ "slug": "thiel_facebook",
+ "title": "He Turned $500,000 Into $1 Billion in 8 Years #shorts",
+ "description": "In 2004, Peter Thiel wrote a $500,000 check to a college dropout's website. It became one of the best venture bets in history.\nFollow for more true stories of fortunes made and lost.",
+ "hashtags": ["finance", "money", "investing", "facebook", "peterthiel", "startup"],
+ "hook_text": "$500,000 BECAME\n$1 BILLION",
+ "highlight_words": ["FIVE HUNDRED THOUSAND DOLLARS", "TEN PERCENT", "ONE BILLION DOLLARS", "TWO THOUSAND AND FOUR", "THREE MILLION", "HARVARD", "ONE HUNDRED BILLION"],
+ "first_comment": "Would you have bet $500,000 on a college website in 2004? Be honest: yes or no? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic dark Harvard dorm room at night, glowing laptop screen on a messy desk, pizza boxes, dramatic moody lighting, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a wealthy investor in a suit standing at a tall window of a San Francisco office at dusk, city lights, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic close-up of a hand signing a check on a dark wooden table, single desk lamp, tense mood, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic glowing world map of connected light points spreading across a dark globe, network of lines, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic crowded stock exchange building facade in New York with a huge crowd below, bright dramatic light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic stock market screens full of green rising charts in a dark room, reflections, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stacks of cash on a dark polished table under a cold spotlight, somber powerful mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic lone figure silhouette walking through a glass skyscraper lobby at dawn, long shadows, film grain, vertical composition, no text, no logos"}
+ ],
+ "lines": [
+  {"text": "In two thousand and four, a man wrote a check for five hundred thousand dollars.", "img": 2, "sfx": "tick"},
+  {"text": "Eight years later, it was worth over one billion dollars.", "img": 6, "sfx": "impact"},
+  {"text": "The check went to a website run from a Harvard dorm room.", "img": 0, "sfx": "none"},
+  {"text": "It had just a few hundred thousand users, and no real profit.", "img": 0, "sfx": "none"},
+  {"text": "The investor was Peter Thiel, co-founder of PayPal.", "img": 1, "sfx": "none"},
+  {"text": "He took about ten percent of the company.", "img": 3, "sfx": "none"},
+  {"text": "Most investors laughed at a site for college kids.", "img": 1, "sfx": "none"},
+  {"text": "Then it exploded across the planet.", "img": 3, "sfx": "riser"},
+  {"text": "The site was Facebook.", "img": 3, "sfx": "impact"},
+  {"text": "In twenty twelve, it went public at a value of one hundred billion dollars.", "img": 4, "sfx": "tick"},
+  {"text": "Thiel sold most of his shares, and walked away with more than one billion dollars.", "img": 5, "sfx": "impact"},
+  {"text": "One check. One bet nobody believed in.", "img": 7, "sfx": "none"},
+  {"text": "Follow for more true stories of fortunes made and lost.", "img": 0, "sfx": "none"}
+ ]
+}
