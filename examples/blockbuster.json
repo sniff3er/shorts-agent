@@ -1,0 +1,34 @@
+{
+ "slug": "blockbuster",
+ "title": "He Laughed at a $50 Million Offer. It Cost Billions #shorts",
+ "description": "In 2000, Blockbuster could have bought Netflix for fifty million dollars. It said no, and a few years later it was gone.\nFollow for more true stories of fortunes made and lost.",
+ "hashtags": ["finance", "money", "business", "blockbuster", "netflix", "history"],
+ "hook_text": "HE LAUGHED AT\nA $50 MILLION OFFER",
+ "highlight_words": ["FIFTY MILLION", "NINE THOUSAND", "FIFTY MILLION DOLLARS", "BILLION", "LATE FEES", "ONE", "TWO THOUSAND AND TEN"],
+ "first_comment": "Blockbuster said no to fifty million dollars. Would you have bought Netflix back then? 👇",
+ "images": [
+  {"prompt": "Cinematic photo-realistic empty video rental store aisle at night, rows of DVD cases, glowing blue sign in the dark, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic silhouette of a man in a suit sitting at a long glossy boardroom table, backlit by a big window, dramatic mood, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic hand holding a red DVD envelope over a mailbox at dusk, warm street light, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic busy video rental store counter at night, customers queuing, stacks of rental tapes, warm yellow light, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic stack of cash on a dark table next to a closed folder, cold spotlight, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic laptop glowing in a dark living room streaming a movie, silhouette of a couch, blue light, film grain, vertical composition, no readable text, no logos"},
+  {"prompt": "Cinematic photo-realistic shuttered store front with papered windows and an empty parking lot at dusk, moody, film grain, vertical composition, no text, no logos"},
+  {"prompt": "Cinematic photo-realistic lone neon sign glowing in a dark empty rental store, dust and shelves, nostalgic somber mood, film grain, vertical composition, no readable text, no logos"}
+ ],
+ "lines": [
+  {"text": "In two thousand, a tiny startup offered to sell itself for fifty million dollars.", "img": 4, "sfx": "tick"},
+  {"text": "The giant it asked laughed in its face.", "img": 1, "sfx": "impact"},
+  {"text": "That giant was Blockbuster, with nine thousand stores around the world.", "img": 3, "sfx": "none"},
+  {"text": "The startup was Netflix. It mailed DVDs to your door.", "img": 2, "sfx": "none"},
+  {"text": "Blockbuster called it a niche business, and walked away.", "img": 0, "sfx": "none"},
+  {"text": "Its real money came from late fees. Hundreds of millions of dollars a year.", "img": 3, "sfx": "tick"},
+  {"text": "Customers hated them.", "img": 0, "sfx": "impact"},
+  {"text": "Netflix had no late fees, and then it started streaming.", "img": 5, "sfx": "riser"},
+  {"text": "Blockbuster lost its customers, then its stores.", "img": 6, "sfx": "none"},
+  {"text": "In two thousand and ten, it filed for bankruptcy.", "img": 6, "sfx": "impact"},
+  {"text": "Today, Netflix is worth hundreds of billions of dollars.", "img": 5, "sfx": "tick"},
+  {"text": "And only one Blockbuster store is still open, in Oregon.", "img": 7, "sfx": "impact"},
+  {"text": "Follow for more true stories of fortunes made and lost.", "img": 0, "sfx": "none"}
+ ]
+}
